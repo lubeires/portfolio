@@ -37,7 +37,7 @@ const projects = [
   },
   {
     title: "habit tracker",
-    description: "Web app para monitoramento de hábitos semanais.",
+    description: "Monitorador de hábitos semanais.",
     repoUrl: githubBaseUrl + "habit-tracker",
     webSiteUrl: "https://habit-tracker-l6h0.onrender.com",
     technologies: [
