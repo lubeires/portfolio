@@ -1,4 +1,4 @@
-export const Skills = () => {
+const Skills = () => {
   return (
     <section id="skills">
       <div id="skills-container">
@@ -28,7 +28,8 @@ export const Skills = () => {
           </ul>
         </div>
         <a
-          href="LuanaPalhares.pdf"
+          href={resume}
+          rel="noreferrer"
           target="_blank"
           className="button"
           id="resume"
@@ -39,3 +40,5 @@ export const Skills = () => {
     </section>
   );
 };
+
+export default Skills;
