@@ -1,4 +1,4 @@
-const Skills = () => {
+export const Skills = () => {
   return (
     <section id="skills">
       <div id="skills-container">
@@ -28,7 +28,7 @@ const Skills = () => {
           </ul>
         </div>
         <a
-          href={resume}
+          href={require("../static/resume.pdf")}
           rel="noreferrer"
           target="_blank"
           className="button"
@@ -40,5 +40,3 @@ const Skills = () => {
     </section>
   );
 };
-
-export default Skills;
