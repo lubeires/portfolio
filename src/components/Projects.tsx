@@ -53,7 +53,7 @@ const projects = [
 export const Projects = () => {
   return (
     <section id="projects">
-      <h2>alguns dos meus projetos</h2>
+      <h2>projetos</h2>
       <div id="projects-container">
         {projects.map((project) => (
           <div className="project">
