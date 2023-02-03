@@ -16,11 +16,8 @@ export const Home = () => {
         /&gt;
       </code>
       <p>
-        meu nome é <strong>Luana Palhares</strong>
-      </p>
-      <p>
-        sou uma <strong>desenvolvedora web</strong> em constante
-        processo de aprendizagem
+        meu nome é <strong>Luana Palhares</strong> e eu sou uma desenvolvedora
+        em desenvolvimento
       </p>
     </section>
   );
