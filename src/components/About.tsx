@@ -5,12 +5,11 @@ export const About = () => {
     <section id="about">
       <div id="dark-background"></div>
       <h2>sobre mim</h2>
+      <p>Sou apaixonada por programação, design e resolução de problemas.</p>
       <p>
-        Sou apaixonada por programação, design e resolução de problemas. Em
-        2022, decidi focar em aprender{" "}
-        <strong>desenvolvimento web full stack</strong> por conta própria e,
-        desde então, tenho colocado meus conhecimentos em prática através de
-        projetos pessoais.
+        Em 2022, decidi aprofundar meus estudos em desenvolvimento web e, desde
+        então, tenho colocado meus conhecimentos em prática através de projetos
+        pessoais.
       </p>
       <p>
         Busco aprendizado constante e estou disposta a superar desafios - sempre
