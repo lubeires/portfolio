@@ -19,7 +19,7 @@ export const Home = () => {
         meu nome é <strong>Luana Palhares</strong>
       </p>
       <p>
-        sou uma <strong>desenvolvedora web full stack</strong> em constante
+        sou uma <strong>desenvolvedora web</strong> em constante
         processo de aprendizagem
       </p>
     </section>
