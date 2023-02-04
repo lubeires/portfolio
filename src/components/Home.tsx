@@ -17,7 +17,7 @@ export const Home = () => {
       </code>
       <p>
         meu nome é <strong>Luana Palhares</strong> e eu sou uma desenvolvedora
-        em desenvolvimento
+        web
       </p>
     </section>
   );
