@@ -31,7 +31,7 @@ export const Header = () => {
           projetos
         </a>
         <div id="socials">
-          <a href="https://github.com/plhrsl" rel="noreferrer" target="_blank">
+          <a href="https://github.com/lubeires" rel="noreferrer" target="_blank">
             <FaGithub />
           </a>
           <a
